@@ -4,7 +4,7 @@ print("your age is: ", a)
 if(a>18):
     print("you can drive")
 else:
-    print("you cannot drive")
+    print("you cannot drive you are under 18")
 
 print(a>18)
 print(a<=18)
