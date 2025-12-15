@@ -1,0 +1,10 @@
+s1 = input("Enter string: ")
+rev = s1[::-1]
+rev = rev.split()
+rev.reverse()
+rev = " ".join(rev)
+print(rev)
+rev = s1.split()
+rev.reverse()
+rev = " ".join(rev)
+print(rev)
